@@ -1,16 +1,22 @@
 # Estuda AI!
-<img width="410" height="210" alt="image" src="https://github.com/user-attachments/assets/f021c0ff-1f63-4f14-9af6-a959ff1bedd0" />
+<img width="310" height="110" alt="image" src="https://github.com/user-attachments/assets/f021c0ff-1f63-4f14-9af6-a959ff1bedd0" />
 
-Um repositorio de provas e listas antigas para finalidade de estudo! copiado na cara dura de https://github.com/elheremes/awesome-ufma/tree/master (obrigado pela ideia :3c)
+Um repositório de provas e listas antigas feito para ajudar nos estudos!  
+Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-ufma/tree/master) — obrigado pela ideia :3c
 
-##  Organização
-As provas e listas estão organizadas em diretorios seguindo a seguinte ordem: materia >  periodo > professor > provaX
+## 📂 Organização
+Os arquivos estão organizados em diretórios seguindo esta ordem:  
+**matéria > período > professor > provaX**
 
-## Guia
+## 📖 Guia
 -- adicionar guia rapido para provas aqui
 
-## Como contribuir?
-Para contribuir ao repositorio, crie um fork desse repositorio, adicione os conteudos que quer inserir e abra um PR, ele sera revisado e se tudo estiver correto o merge sera feito!
+## 🤝 Como contribuir?
+1. Faça um **fork** do repositório.  
+2. Adicione o conteúdo que deseja incluir.  
+3. Abra um **Pull Request**.  
+Se estiver tudo certo, o PR será revisado e aprovado rapidinho!
 
-### Nota aos professores
-Se voce deseja que conteudo relaciconado a você seja removido para dificultar a vida e estudos dos seus alunos, abra uma issue neste repositorio informando para serem removidos, isso sera  feito o mais rapido possivel.
+### 📌 Nota aos professores
+Se você quiser que algum conteúdo relacionado ao seu nome seja removido, basta abrir uma **issue** solicitando a exclusão.  
+Prometemos atender o pedido o mais rápido possível.  
