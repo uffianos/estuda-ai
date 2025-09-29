@@ -6,7 +6,7 @@ Um repositório de provas e listas antigas feito para ajudar nos estudos!
 Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-ufma/tree/master), obrigado pela ideia :3c
 
 ## Organização
-Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > período > professor > provaX**
+Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > período > professor > PX (ou LX caso for uma lista)**
 
 ## Guia
 -- adicionar guia rapido para provas aqui
