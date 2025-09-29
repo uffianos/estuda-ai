@@ -1,5 +1,6 @@
 # Estuda AI!
-<img width="310" height="110" alt="image" src="https://github.com/user-attachments/assets/f021c0ff-1f63-4f14-9af6-a959ff1bedd0" />
+<img width="256" height="131" alt="image" src="https://github.com/user-attachments/assets/3ad5fbeb-34a8-40f8-99b2-1150cee13502" />
+
 
 Um repositório de provas e listas antigas feito para ajudar nos estudos!  
 Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-ufma/tree/master) — obrigado pela ideia :3c
