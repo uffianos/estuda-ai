@@ -1,7 +1,6 @@
 # Estuda AI!
 <img width="256" height="131" alt="image" src="https://github.com/user-attachments/assets/3ad5fbeb-34a8-40f8-99b2-1150cee13502" />
 
-
 Um repositório de provas e listas antigas feito para ajudar nos estudos!  
 Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-ufma/tree/master), obrigado pela ideia :3c
 
@@ -9,7 +8,103 @@ Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-
 Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > professor > período > PX (ou LX caso for uma lista)**
 
 ## Guia
--- adicionar guia rapido para provas aqui
+- [Fundamentos de Arquitetura de Computadores](./Fundamentos%20de%20Arquitetura%20de%20Computadores)
+  - [Vinod](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod)
+    - [22.2](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2)
+      - [P1, FAC - Vinod - 22.2.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P1,%20FAC%20-%20Vinod%20-%2022.2.pdf)
+      - [P2, FAC - Vinod - 22.2.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P2,%20FAC%20-%20Vinod%20-%2022.2.pdf)
+    - [readme.txt](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/readme.txt)
+- [Lógica para CC](./Lógica%20para%20CC)
+  - [Jorge Petrucio](./Lógica%20para%20CC/Jorge%20Petrucio)
+    - [23.2](./Lógica%20para%20CC/Jorge%20Petrucio/23.2)
+      - [P1, Lógica CC - Petrúcio - 23.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/23.2/P1,%20Lógica%20CC%20-%20Petrúcio%20-%2023.2.pdf)
+    - [24.1](./Lógica%20para%20CC/Jorge%20Petrucio/24.1)
+      - [P1, Lógica CC - Petrúcio - 24.1.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/P1,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.pdf)
+      - [P2, Lógica CC - Petrúcio - 24.1.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/P2,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.pdf)
+      - [P3, Lógica CC - Petrúcio - 24.1.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/P3,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.pdf)
+      - [P4, Lógica CC - Petrúcio - 24.1.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/P4,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.pdf)
+      - [P5, Lógica CC - Petrúcio - 24.1.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/P5,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.pdf)
+      - [VS, Lógica CC - Petrúcio - 24.1.jpg](./Lógica%20para%20CC/Jorge%20Petrucio/24.1/VS,%20Lógica%20CC%20-%20Petrúcio%20-%2024.1.jpg)
+    - [24.2](./Lógica%20para%20CC/Jorge%20Petrucio/24.2)
+      - [P1, Lógica CC - Petrúcio - 24.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/P1,%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.pdf)
+      - [P2, Lógica CC - Petrúcio - 24.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/P2,%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.pdf)
+      - [P3, Lógica CC - Petrúcio - 24.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/P3,%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.pdf)
+      - [P6, Lógica CC - Petrúcio - 24.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/P6,%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.pdf)
+      - [VR(1), Lógica CC - Petrúcio - 24.2.jpg](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/VR(1),%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.jpg)
+      - [VR(2), Lógica CC - Petrúcio - 24.2.jpg](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/VR(2),%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.jpg)
+  - [Slobodan](./Lógica%20para%20CC/Slobodan)
+    - [25.1](./Lógica%20para%20CC/Slobodan/25.1)
+      - [P1, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/P1,%20Lógica%20CC%20-%20Slobodan.jpeg)
+      - [P2, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/P2,%20Lógica%20CC%20-%20Slobodan.jpeg)
+      - [VR, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VR,%20Lógica%20CC%20-%20Slobodan.jpeg)
+      - [VS, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VS,%20Lógica%20CC%20-%20Slobodan.jpeg)
+- [Matemática Discreta](./Matemática%20Discreta)
+  - [Jones](./Matemática%20Discreta/Jones)
+    - [23.2](./Matemática%20Discreta/Jones/23.2)
+      - [P1, Discreta - Jones Colombo - 23.2.jpg](./Matemática%20Discreta/Jones/23.2/P1,%20Discreta%20-%20Jones%20Colombo%20-%2023.2.jpg)
+      - [P2, Discreta - Jones Colombo - 23.2.pdf](./Matemática%20Discreta/Jones/23.2/P2,%20Discreta%20-%20Jones%20Colombo%20-%2023.2.pdf)
+      - [VR, Discreta - Jones Colombo - 23.2.pdf](./Matemática%20Discreta/Jones/23.2/VR,%20Discreta%20-%20Jones%20Colombo%20-%2023.2.pdf)
+    - [24.1](./Matemática%20Discreta/Jones/24.1)
+      - [P1, Discreta - Jones Colombo - 24.1.pdf](./Matemática%20Discreta/Jones/24.1/P1,%20Discreta%20-%20Jones%20Colombo%20-%2024.1.pdf)
+      - [P2, Discreta - Jones Colombo - 24.1.jpg](./Matemática%20Discreta/Jones/24.1/P2,%20Discreta%20-%20Jones%20Colombo%20-%2024.1.jpg)
+    - [24.2](./Matemática%20Discreta/Jones/24.2)
+      - [Gabarito da P1, Discreta - Jones Colombo - 24.2.pdf](./Matemática%20Discreta/Jones/24.2/Gabarito%20da%20P1,%20Discreta%20-%20Jones%20Colombo%20-%2024.2.pdf)
+      - [P1, Discreta - Jones Colombo - 24.2.pdf](./Matemática%20Discreta/Jones/24.2/P1,%20Discreta%20-%20Jones%20Colombo%20-%2024.2.pdf)
+  - [José Koiller](./Matemática%20Discreta/José%20Koiller)
+    - [22.2](./Matemática%20Discreta/José%20Koiller/22.2)
+      - [P2, Discreta - Koiller - 22.2.pdf](./Matemática%20Discreta/José%20Koiller/22.2/P2,%20Discreta%20-%20Koiller%20-%2022.2.pdf)
+    - [23.1](./Matemática%20Discreta/José%20Koiller/23.1)
+      - [P1, Discreta - Koiller - 23.1.pdf](./Matemática%20Discreta/José%20Koiller/23.1/P1,%20Discreta%20-%20Koiller%20-%2023.1.pdf)
+      - [P2, Discreta - Koiller - 23.1.pdf](./Matemática%20Discreta/José%20Koiller/23.1/P2,%20Discreta%20-%20Koiller%20-%2023.1.pdf)
+    - [25.1](./Matemática%20Discreta/José%20Koiller/25.1)
+      - [P1, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P1,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
+      - [P2, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P2,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
+      - [P3, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P3,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
+  - [Petrúcio](./Matemática%20Discreta/Petrúcio)
+    - [23.1](./Matemática%20Discreta/Petrúcio/23.1)
+      - [P1, Discreta - Petrúcio - 23.1.pdf](./Matemática%20Discreta/Petrúcio/23.1/P1,%20Discreta%20-%20Petrúcio%20-%2023.1.pdf)
+  - [Yuri Ki](./Matemática%20Discreta/Yuri%20Ki)
+    - [22.2](./Matemática%20Discreta/Yuri%20Ki/22.2)
+      - [P1, Discreta - Yuri Ki - 22.2.jpeg](./Matemática%20Discreta/Yuri%20Ki/22.2/P1,%20Discreta%20-%20Yuri%20Ki%20-%2022.2.jpeg)
+      - [P2, Discreta - Yuri Ki - 22.2.jpeg](./Matemática%20Discreta/Yuri%20Ki/22.2/P2,%20Discreta%20-%20Yuri%20Ki%20-%2022.2.jpeg)
+      - [VS, Discreta - Yuri Ki - 22.2.pdf](./Matemática%20Discreta/Yuri%20Ki/22.2/VS,%20Discreta%20-%20Yuri%20Ki%20-%2022.2.pdf)
+    - [23.1](./Matemática%20Discreta/Yuri%20Ki/23.1)
+      - [P1, Discreta - Yuri Ki - 23.1.pdf](./Matemática%20Discreta/Yuri%20Ki/23.1/P1,%20Discreta%20-%20Yuri%20Ki%20-%2023.1.pdf)
+      - [P2, Discreta - Yuri Ki - 23.1.jfif](./Matemática%20Discreta/Yuri%20Ki/23.1/P2,%20Discreta%20-%20Yuri%20Ki%20-%2023.1.jfif)
+- [Programação 1](./Programação%201)
+  - [Leandro](./Programação%201/Leandro)
+    - [23.2](./Programação%201/Leandro/23.2)
+      - [P1, Programação 1 - Leandro - 23.2.pdf](./Programação%201/Leandro/23.2/P1,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
+      - [P2, Programação 1 - Leandro - 23.2.pdf](./Programação%201/Leandro/23.2/P2,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
+      - [P3, Programação 1 - Leandro - 23.2.pdf](./Programação%201/Leandro/23.2/P3,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
+      - [VR, Programação 1 - Leandro - 23.2.pdf](./Programação%201/Leandro/23.2/VR,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
+      - [VS, Programação 1 - Leandro - 23.2.pdf](./Programação%201/Leandro/23.2/VS,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
+  - [Marcos Lage](./Programação%201/Marcos%20Lage)
+    - [22.2](./Programação%201/Marcos%20Lage/22.2)
+      - [P1, Programação 1 - Marcos Lage - 22.2.pdf](./Programação%201/Marcos%20Lage/22.2/P1,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.pdf)
+      - [P2, Programação 1 - Marcos Lage - 22.2.pdf](./Programação%201/Marcos%20Lage/22.2/P2,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.pdf)
+      - [VR, Programação 1 - Marcos Lage - 22.2.jfif](./Programação%201/Marcos%20Lage/22.2/VR,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.jfif)
+  - [Viterbo](./Programação%201/Viterbo)
+    - [P2, Programação 1 - Viterbo - 25.1.pdf](./Programação%201/Viterbo/P2,%20Programação%201%20-%20Viterbo%20-%2025.1.pdf)
+- [Álgebra Linear](./Álgebra%20Linear)
+  - [Ana](./Álgebra%20Linear/Ana)
+    - [23.2](./Álgebra%20Linear/Ana/23.2)
+      - [P2, Álgebra Linear - Ana - 23.2.pdf](./Álgebra%20Linear/Ana/23.2/P2,%20Álgebra%20Linear%20-%20Ana%20-%2023.2.pdf)
+  - [Luiz Viana](./Álgebra%20Linear/Luiz%20Viana)
+    - [23.1](./Álgebra%20Linear/Luiz%20Viana/23.1)
+      - [P2, Álgebra Linear - Luiz Viana - 23.1.pdf](./Álgebra%20Linear/Luiz%20Viana/23.1/P2,%20Álgebra%20Linear%20-%20Luiz%20Viana%20-%2023.1.pdf)
+  - [Míriam Abdon e Cláudia Ossanai](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai)
+    - [24.1](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1)
+      - [P1, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P1,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
+      - [P2, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P2,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
+      - [P3 - Gabarito.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P3%20-%20Gabarito.pdf)
+      - [P3, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P3,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
+      - [VR, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/VR,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
+      - [VS, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/VS,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
+  - [Renata de Freitas](./Álgebra%20Linear/Renata%20de%20Freitas)
+    - [23.2](./Álgebra%20Linear/Renata%20de%20Freitas/23.2)
+      - [P1, Álgebra Linear - Renata de Freitas - 23.2.jpg](./Álgebra%20Linear/Renata%20de%20Freitas/23.2/P1,%20Álgebra%20Linear%20-%20Renata%20de%20Freitas%20-%2023.2.jpg)
+
 
 ## Como contribuir?
 1. Faça um **fork** do repositório.  
@@ -20,4 +115,4 @@ Se estiver tudo certo, o PR será revisado e aprovado
 **Nota:** Caso você não seja o dono da prova que está adicionando, ou simplesmente não quiser ter seu nome exposto, por favor censure onde aparecer o nome do aluno na prova!
 
 ### Nota aos professores
-Se você professor quiser dificultar a vida e estudos de seus alunos, basta abrir uma **issue** informando que você quer que seu conteúdo seja removido, a pasta contendo seu conteudo será removida o mais rápido possivel!
+Se você professor quiser dificultar a vida e estudos de seus alunos, basta abrir uma **issue** informando que você quer que seu conteúdo seja removida, a pasta contendo seu conteudo será removida o mais rápido possivel!
