@@ -26,7 +26,7 @@ Se estiver tudo certo, o PR será revisado e aprovado
 **Nota:** Caso você não seja o dono da prova que está adicionando, ou simplesmente não quiser ter seu nome exposto, por favor censure onde aparecer o nome do aluno na prova!
 
 ### Nota aos professores
-Se você professor quiser dificultar a vida e estudos de seus alunos, basta abrir uma **issue** informando que você quer que seu conteúdo seja removida, a pasta contendo seu conteudo será removida o mais rápido possivel!
+Se você professor quiser dificultar a vida e estudos de seus alunos, basta abrir uma **issue** informando que você quer que seu conteúdo seja removido, a pasta contendo seu conteudo será removida o mais rápido possivel!
 """.trimIndent()
 
 fun runCommand(dir: File, vararg command: String) {
