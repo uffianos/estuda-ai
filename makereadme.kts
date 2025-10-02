@@ -48,7 +48,7 @@ fun generateTree(dir: File, indent: String = ""): String {
     val items = dir.listFiles()?.sortedBy { it.name } ?: return ""
 
     for (file in items) {
-        if (file.name == ".git" || file.name == "README.md") 
+        if (file.name == ".git" || file.name == "README.md" || file.name == "makereadme.kts") 
             continue
 
         val link = file.relativeTo(repoDir).path.replace(" ", "%20")
@@ -56,6 +56,9 @@ fun generateTree(dir: File, indent: String = ""): String {
         if (file.isDirectory) {
             builder.append("$indent- [${file.name}](./$link)\n")
             builder.append(generateTree(file, "$indent  "))
+            if (indent == "" || indent == "  ") { //separar bloco de materias e professor
+                builder.append("\n")
+            }
         } else {
             builder.append("$indent- [${file.name}](./$link)\n")
         }
