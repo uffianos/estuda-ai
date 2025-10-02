@@ -56,7 +56,7 @@ fun generateTree(dir: File, indent: String = ""): String {
         if (file.isDirectory) {
             builder.append("$indent- [${file.name}](./$link)\n")
             builder.append(generateTree(file, "$indent  "))
-            if (indent == "") { //separar bloco de materias e professor
+            if (indent == "") { //separar bloco de materias
                 builder.append("\n")
             }
         } else {
