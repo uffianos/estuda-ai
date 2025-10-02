@@ -19,22 +19,18 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P2, ARQ - Vinod - 24.1.jpg](./Arquitetura%20de%20Computadores/Vinod/24.1/P2,%20ARQ%20-%20Vinod%20-%2024.1.jpg)
     - [readme.txt](./Arquitetura%20de%20Computadores/Vinod/readme.txt)
 
-
 - [Avaliação de Desempenho](./Avaliação%20de%20Desempenho)
   - [Desconhecido](./Avaliação%20de%20Desempenho/Desconhecido)
     - [P1, AV. Desempenho - Desconhecido.jpg](./Avaliação%20de%20Desempenho/Desconhecido/P1,%20AV.%20Desempenho%20-%20Desconhecido.jpg)
     - [P2, AV. Desempenho - Desconhecido.jpg](./Avaliação%20de%20Desempenho/Desconhecido/P2,%20AV.%20Desempenho%20-%20Desconhecido.jpg)
 
-
 - [Circuitos Digitais para CC](./Circuitos%20Digitais%20para%20CC)
   - [La Vega](./Circuitos%20Digitais%20para%20CC/La%20Vega)
     - [P1, Circuitos - Las Vegas - 23.1.pdf](./Circuitos%20Digitais%20para%20CC/La%20Vega/P1,%20Circuitos%20-%20Las%20Vegas%20-%2023.1.pdf)
 
-
 - [Cálculo I](./Cálculo%20I)
   - [Antônio Nigro](./Cálculo%20I/Antônio%20Nigro)
     - [P1, Cálculo I - Antônio Nigro - 23.1.pdf](./Cálculo%20I/Antônio%20Nigro/P1,%20Cálculo%20I%20-%20Antônio%20Nigro%20-%2023.1.pdf)
-
   - [Magda Kimico](./Cálculo%20I/Magda%20Kimico)
     - [P1a, Cálculo I - Magda Kimico - 23.2.pdf](./Cálculo%20I/Magda%20Kimico/P1a,%20Cálculo%20I%20-%20Magda%20Kimico%20-%2023.2.pdf)
     - [P1b, Cálculo I - Magda Kimico - 23.1.pdf](./Cálculo%20I/Magda%20Kimico/P1b,%20Cálculo%20I%20-%20Magda%20Kimico%20-%2023.1.pdf)
@@ -47,13 +43,11 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [VSa, Cálculo I - Magda Kimico - 23.2.pdf](./Cálculo%20I/Magda%20Kimico/VSa,%20Cálculo%20I%20-%20Magda%20Kimico%20-%2023.2.pdf)
     - [VSb, Cálculo I - Magda Kimico - 23.2.pdf](./Cálculo%20I/Magda%20Kimico/VSb,%20Cálculo%20I%20-%20Magda%20Kimico%20-%2023.2.pdf)
 
-
 - [Engenharia de Software II](./Engenharia%20de%20Software%20II)
   - [Troy](./Engenharia%20de%20Software%20II/Troy)
     - [25.1](./Engenharia%20de%20Software%20II/Troy/25.1)
       - [P2(1), Eng. Software II - Troy - 25.1.jpg](./Engenharia%20de%20Software%20II/Troy/25.1/P2(1),%20Eng.%20Software%20II%20-%20Troy%20-%2025.1.jpg)
       - [P2(2), Eng. Software II - Troy - 25.1.jpg](./Engenharia%20de%20Software%20II/Troy/25.1/P2(2),%20Eng.%20Software%20II%20-%20Troy%20-%2025.1.jpg)
-
 
 - [Fundamentos de Arquitetura de Computadores](./Fundamentos%20de%20Arquitetura%20de%20Computadores)
   - [Vinod](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod)
@@ -61,7 +55,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P1, FAC - Vinod - 22.2.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P1,%20FAC%20-%20Vinod%20-%2022.2.pdf)
       - [P2, FAC - Vinod - 22.2.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P2,%20FAC%20-%20Vinod%20-%2022.2.pdf)
     - [readme.txt](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/readme.txt)
-
 
 - [Fundamentos de Cálculo e Geometria](./Fundamentos%20de%20Cálculo%20e%20Geometria)
   - [Abigail](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail)
@@ -87,12 +80,10 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [Vetores espaço tutor.pdf](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail/Vetores%20espaço%20tutor.pdf)
     - [prova1.pdf](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail/prova1.pdf)
     - [vs-gacv-2018-2.pdf](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail/vs-gacv-2018-2.pdf)
-
   - [José Roberto Linhares (goat)](./Fundamentos%20de%20Cálculo%20e%20Geometria/José%20Roberto%20Linhares%20(goat))
     - [23.2](./Fundamentos%20de%20Cálculo%20e%20Geometria/José%20Roberto%20Linhares%20(goat)/23.2)
       - [Gabarito P2.pdf](./Fundamentos%20de%20Cálculo%20e%20Geometria/José%20Roberto%20Linhares%20(goat)/23.2/Gabarito%20P2.pdf)
       - [P2, FCG - Linhares - 23.2.pdf](./Fundamentos%20de%20Cálculo%20e%20Geometria/José%20Roberto%20Linhares%20(goat)/23.2/P2,%20FCG%20-%20Linhares%20-%2023.2.pdf)
-
 
 - [Inteligência Artificial](./Inteligência%20Artificial)
   - [Aline](./Inteligência%20Artificial/Aline)
@@ -100,14 +91,12 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P2(1), IA - Aline - 25.1.jpg](./Inteligência%20Artificial/Aline/25.1/P2(1),%20IA%20-%20Aline%20-%2025.1.jpg)
       - [P2(2), IA - Aline - 25.1.jpg](./Inteligência%20Artificial/Aline/25.1/P2(2),%20IA%20-%20Aline%20-%2025.1.jpg)
 
-
 - [Laboratório de Resolução de Problemas](./Laboratório%20de%20Resolução%20de%20Problemas)
   - [Mário](./Laboratório%20de%20Resolução%20de%20Problemas/Mário)
     - [22.2](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2)
       - [P1, LRP - Mário - 22.2.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/P1,%20LRP%20-%20Mário%20-%2022.2.jpg)
       - [P2, LRP - Mário - 22.2.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/P2,%20LRP%20-%20Mário%20-%2022.2.jpg)
       - [VR, LRP - Mário - 22.2.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/VR,%20LRP%20-%20Mário%20-%2022.2.jpg)
-
 
 - [Lógica para CC](./Lógica%20para%20CC)
   - [Jorge Petrucio](./Lógica%20para%20CC/Jorge%20Petrucio)
@@ -127,14 +116,12 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P6, Lógica CC - Petrúcio - 24.2.pdf](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/P6,%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.pdf)
       - [VR(1), Lógica CC - Petrúcio - 24.2.jpg](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/VR(1),%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.jpg)
       - [VR(2), Lógica CC - Petrúcio - 24.2.jpg](./Lógica%20para%20CC/Jorge%20Petrucio/24.2/VR(2),%20Lógica%20CC%20-%20Petrúcio%20-%2024.2.jpg)
-
   - [Slobodan](./Lógica%20para%20CC/Slobodan)
     - [25.1](./Lógica%20para%20CC/Slobodan/25.1)
       - [P1, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/P1,%20Lógica%20CC%20-%20Slobodan.jpeg)
       - [P2, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/P2,%20Lógica%20CC%20-%20Slobodan.jpeg)
       - [VR, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VR,%20Lógica%20CC%20-%20Slobodan.jpeg)
       - [VS, Lógica CC - Slobodan.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VS,%20Lógica%20CC%20-%20Slobodan.jpeg)
-
 
 - [Matemática Discreta](./Matemática%20Discreta)
   - [Jones](./Matemática%20Discreta/Jones)
@@ -148,7 +135,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [24.2](./Matemática%20Discreta/Jones/24.2)
       - [Gabarito da P1, Discreta - Jones Colombo - 24.2.pdf](./Matemática%20Discreta/Jones/24.2/Gabarito%20da%20P1,%20Discreta%20-%20Jones%20Colombo%20-%2024.2.pdf)
       - [P1, Discreta - Jones Colombo - 24.2.pdf](./Matemática%20Discreta/Jones/24.2/P1,%20Discreta%20-%20Jones%20Colombo%20-%2024.2.pdf)
-
   - [José Koiller](./Matemática%20Discreta/José%20Koiller)
     - [22.2](./Matemática%20Discreta/José%20Koiller/22.2)
       - [P2, Discreta - Koiller - 22.2.pdf](./Matemática%20Discreta/José%20Koiller/22.2/P2,%20Discreta%20-%20Koiller%20-%2022.2.pdf)
@@ -159,11 +145,9 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P1, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P1,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
       - [P2, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P2,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
       - [P3, Discreta - Koiller - 25.1.pdf](./Matemática%20Discreta/José%20Koiller/25.1/P3,%20Discreta%20-%20Koiller%20-%2025.1.pdf)
-
   - [Petrúcio](./Matemática%20Discreta/Petrúcio)
     - [23.1](./Matemática%20Discreta/Petrúcio/23.1)
       - [P1, Discreta - Petrúcio - 23.1.pdf](./Matemática%20Discreta/Petrúcio/23.1/P1,%20Discreta%20-%20Petrúcio%20-%2023.1.pdf)
-
   - [Yuri Ki](./Matemática%20Discreta/Yuri%20Ki)
     - [22.2](./Matemática%20Discreta/Yuri%20Ki/22.2)
       - [P1, Discreta - Yuri Ki - 22.2.jpeg](./Matemática%20Discreta/Yuri%20Ki/22.2/P1,%20Discreta%20-%20Yuri%20Ki%20-%2022.2.jpeg)
@@ -173,18 +157,15 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P1, Discreta - Yuri Ki - 23.1.pdf](./Matemática%20Discreta/Yuri%20Ki/23.1/P1,%20Discreta%20-%20Yuri%20Ki%20-%2023.1.pdf)
       - [P2, Discreta - Yuri Ki - 23.1.jfif](./Matemática%20Discreta/Yuri%20Ki/23.1/P2,%20Discreta%20-%20Yuri%20Ki%20-%2023.1.jfif)
 
-
 - [Métodos Numéricos](./Métodos%20Numéricos)
   - [Helena](./Métodos%20Numéricos/Helena)
     - [P2-mn.pdf](./Métodos%20Numéricos/Helena/P2-mn.pdf)
-
 
 - [Programação Estruturada](./Programação%20Estruturada)
   - [Aline Paes](./Programação%20Estruturada/Aline%20Paes)
     - [P1_1.pdf](./Programação%20Estruturada/Aline%20Paes/P1_1.pdf)
     - [P1_2.pdf](./Programação%20Estruturada/Aline%20Paes/P1_2.pdf)
     - [P2.pdf](./Programação%20Estruturada/Aline%20Paes/P2.pdf)
-
   - [Patrick](./Programação%20Estruturada/Patrick)
     - [23.1](./Programação%20Estruturada/Patrick/23.1)
       - [P1, PE - Patrick - 23.1.pdf](./Programação%20Estruturada/Patrick/23.1/P1,%20PE%20-%20Patrick%20-%2023.1.pdf)
@@ -194,17 +175,14 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [VR(1), PE - Patrick - 22.2.jpg](./Programação%20Estruturada/Patrick/VR(1),%20PE%20-%20Patrick%20-%2022.2.jpg)
     - [VR(2), PE - Patrick - 22.2.jpg.jpg](./Programação%20Estruturada/Patrick/VR(2),%20PE%20-%20Patrick%20-%2022.2.jpg.jpg)
 
-
 - [Programação Orientada a Objetos](./Programação%20Orientada%20a%20Objetos)
   - [Desconhecido](./Programação%20Orientada%20a%20Objetos/Desconhecido)
     - [P1(1), POO - Desconhecido - 23.2.jpg](./Programação%20Orientada%20a%20Objetos/Desconhecido/P1(1),%20POO%20-%20Desconhecido%20-%2023.2.jpg)
     - [P1(2), POO - Desconhecido - 23.2.jpg](./Programação%20Orientada%20a%20Objetos/Desconhecido/P1(2),%20POO%20-%20Desconhecido%20-%2023.2.jpg)
-
   - [Flávia](./Programação%20Orientada%20a%20Objetos/Flávia)
     - [24.2](./Programação%20Orientada%20a%20Objetos/Flávia/24.2)
       - [P2(1), POO - Flávia - 24.2.jfif](./Programação%20Orientada%20a%20Objetos/Flávia/24.2/P2(1),%20POO%20-%20Flávia%20-%2024.2.jfif)
       - [P2(2), POO - Flávia - 24.2.jfif](./Programação%20Orientada%20a%20Objetos/Flávia/24.2/P2(2),%20POO%20-%20Flávia%20-%2024.2.jfif)
-
 
 - [Programação de Computadores I](./Programação%20de%20Computadores%20I)
   - [Leandro](./Programação%20de%20Computadores%20I/Leandro)
@@ -214,29 +192,24 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P3, Programação 1 - Leandro - 23.2.pdf](./Programação%20de%20Computadores%20I/Leandro/23.2/P3,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
       - [VR, Programação 1 - Leandro - 23.2.pdf](./Programação%20de%20Computadores%20I/Leandro/23.2/VR,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
       - [VS, Programação 1 - Leandro - 23.2.pdf](./Programação%20de%20Computadores%20I/Leandro/23.2/VS,%20Programação%201%20-%20Leandro%20-%2023.2.pdf)
-
   - [Marcos Lage](./Programação%20de%20Computadores%20I/Marcos%20Lage)
     - [22.2](./Programação%20de%20Computadores%20I/Marcos%20Lage/22.2)
       - [P1, Programação 1 - Marcos Lage - 22.2.pdf](./Programação%20de%20Computadores%20I/Marcos%20Lage/22.2/P1,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.pdf)
       - [P2, Programação 1 - Marcos Lage - 22.2.pdf](./Programação%20de%20Computadores%20I/Marcos%20Lage/22.2/P2,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.pdf)
       - [VR, Programação 1 - Marcos Lage - 22.2.jfif](./Programação%20de%20Computadores%20I/Marcos%20Lage/22.2/VR,%20Programação%201%20-%20Marcos%20Lage%20-%2022.2.jfif)
-
   - [Viterbo](./Programação%20de%20Computadores%20I/Viterbo)
     - [25.1](./Programação%20de%20Computadores%20I/Viterbo/25.1)
       - [P2, Programação 1 - Viterbo - 25.1.pdf](./Programação%20de%20Computadores%20I/Viterbo/25.1/P2,%20Programação%201%20-%20Viterbo%20-%2025.1.pdf)
-
 
 - [Sistemas Distribuídos](./Sistemas%20Distribuídos)
   - [Desconhecido](./Sistemas%20Distribuídos/Desconhecido)
     - [P2(1), Sistemas Distribuídos - Desconhecido - 24.1.jpg](./Sistemas%20Distribuídos/Desconhecido/P2(1),%20Sistemas%20Distribuídos%20-%20Desconhecido%20-%2024.1.jpg)
     - [P2(2), Sistemas Distribuídos - Desconhecido - 24.1.jpg](./Sistemas%20Distribuídos/Desconhecido/P2(2),%20Sistemas%20Distribuídos%20-%20Desconhecido%20-%2024.1.jpg)
 
-
 - [Álgebra Linear](./Álgebra%20Linear)
   - [Ana](./Álgebra%20Linear/Ana)
     - [23.2](./Álgebra%20Linear/Ana/23.2)
       - [P2, Álgebra Linear - Ana - 23.2.pdf](./Álgebra%20Linear/Ana/23.2/P2,%20Álgebra%20Linear%20-%20Ana%20-%2023.2.pdf)
-
   - [Bely Rodríguez Morales](./Álgebra%20Linear/Bely%20Rodríguez%20Morales)
     - [23.2](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/23.2)
       - [P3.pdf](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/23.2/P3.pdf)
@@ -252,11 +225,9 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P3.pdf](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/25.1/P3.pdf)
       - [VR.pdf](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/25.1/VR.pdf)
       - [VS.pdf](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/25.1/VS.pdf)
-
   - [Luiz Viana](./Álgebra%20Linear/Luiz%20Viana)
     - [23.1](./Álgebra%20Linear/Luiz%20Viana/23.1)
       - [P2, Álgebra Linear - Luiz Viana - 23.1.pdf](./Álgebra%20Linear/Luiz%20Viana/23.1/P2,%20Álgebra%20Linear%20-%20Luiz%20Viana%20-%2023.1.pdf)
-
   - [Míriam Abdon e Cláudia Ossanai](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai)
     - [24.1](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1)
       - [P1, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P1,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
@@ -265,11 +236,9 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P3, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/P3,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
       - [VR, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/VR,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
       - [VS, Álgebra Linear - Míriam e Cláudia - 24.1.pdf](./Álgebra%20Linear/Míriam%20Abdon%20e%20Cláudia%20Ossanai/24.1/VS,%20Álgebra%20Linear%20-%20Míriam%20e%20Cláudia%20-%2024.1.pdf)
-
   - [Renata de Freitas](./Álgebra%20Linear/Renata%20de%20Freitas)
     - [23.2](./Álgebra%20Linear/Renata%20de%20Freitas/23.2)
       - [P1, Álgebra Linear - Renata de Freitas - 23.2.jpg](./Álgebra%20Linear/Renata%20de%20Freitas/23.2/P1,%20Álgebra%20Linear%20-%20Renata%20de%20Freitas%20-%2023.2.jpg)
-
 
 
 
