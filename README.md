@@ -204,6 +204,7 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
 - [Programação Estruturada](./Programação%20Estruturada)
   - [Aline Nascimento](./Programação%20Estruturada/Aline%20Nascimento)
     - [imagem_2026-09-23_215652905.png](./Programação%20Estruturada/Aline%20Nascimento/imagem_2026-09-23_215652905.png)
+    - [imagem_2026-09-23_215909116.png](./Programação%20Estruturada/Aline%20Nascimento/imagem_2026-09-23_215909116.png)
   - [Aline Paes](./Programação%20Estruturada/Aline%20Paes)
     - [Desconhecido](./Programação%20Estruturada/Aline%20Paes/Desconhecido)
       - [P1(2).pdf](./Programação%20Estruturada/Aline%20Paes/Desconhecido/P1(2).pdf)
