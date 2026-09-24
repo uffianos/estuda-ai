@@ -38,6 +38,7 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [26.1](./Circuitos%20Digitais%20para%20CC/La%20Vega/26.1)
       - [P1.jpeg](./Circuitos%20Digitais%20para%20CC/La%20Vega/26.1/P1.jpeg)
       - [imagem_2026-09-23_213625361.png](./Circuitos%20Digitais%20para%20CC/La%20Vega/26.1/imagem_2026-09-23_213625361.png)
+      - [imagem_2026-09-23_213805414.png](./Circuitos%20Digitais%20para%20CC/La%20Vega/26.1/imagem_2026-09-23_213805414.png)
 - [Cálculo I](./Cálculo%20I)
   - [Antônio Nigro](./Cálculo%20I/Antônio%20Nigro)
     - [P1.pdf](./Cálculo%20I/Antônio%20Nigro/P1.pdf)
