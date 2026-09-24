@@ -43,6 +43,7 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
   - [Antônio Nigro](./Cálculo%20I/Antônio%20Nigro)
     - [P1.pdf](./Cálculo%20I/Antônio%20Nigro/P1.pdf)
   - [Giovanny Fuentes](./Cálculo%20I/Giovanny%20Fuentes)
+    - [imagem_2026-09-23_220750641.png](./Cálculo%20I/Giovanny%20Fuentes/imagem_2026-09-23_220750641.png)
   - [Magda Kimico](./Cálculo%20I/Magda%20Kimico)
     - [P1(a).pdf](./Cálculo%20I/Magda%20Kimico/P1(a).pdf)
     - [P1(b).pdf](./Cálculo%20I/Magda%20Kimico/P1(b).pdf)
