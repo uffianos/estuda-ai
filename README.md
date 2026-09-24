@@ -274,6 +274,7 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [VS.pdf](./Álgebra%20Linear/Bely%20Rodríguez%20Morales/25.1/VS.pdf)
   - [Giovanny Fuentes](./Álgebra%20Linear/Giovanny%20Fuentes)
     - [P1.jpeg](./Álgebra%20Linear/Giovanny%20Fuentes/P1.jpeg)
+    - [imagem_2026-09-23_220405056.png](./Álgebra%20Linear/Giovanny%20Fuentes/imagem_2026-09-23_220405056.png)
   - [Luiz Viana](./Álgebra%20Linear/Luiz%20Viana)
     - [23.1](./Álgebra%20Linear/Luiz%20Viana/23.1)
       - [P2.pdf](./Álgebra%20Linear/Luiz%20Viana/23.1/P2.pdf)
